@@ -1,0 +1,9 @@
+c:\users\chidoyo\documents\visual studio 2017\Projects\MyCalculator\MyCalculator\bin\Debug\netcoreapp1.1\MyCalculator.deps.json
+c:\users\chidoyo\documents\visual studio 2017\Projects\MyCalculator\MyCalculator\bin\Debug\netcoreapp1.1\MyCalculator.runtimeconfig.json
+c:\users\chidoyo\documents\visual studio 2017\Projects\MyCalculator\MyCalculator\bin\Debug\netcoreapp1.1\MyCalculator.runtimeconfig.dev.json
+c:\users\chidoyo\documents\visual studio 2017\Projects\MyCalculator\MyCalculator\bin\Debug\netcoreapp1.1\MyCalculator.dll
+c:\users\chidoyo\documents\visual studio 2017\Projects\MyCalculator\MyCalculator\bin\Debug\netcoreapp1.1\MyCalculator.pdb
+c:\users\chidoyo\documents\visual studio 2017\Projects\MyCalculator\MyCalculator\obj\Debug\netcoreapp1.1\MyCalculator.csprojResolveAssemblyReference.cache
+c:\users\chidoyo\documents\visual studio 2017\Projects\MyCalculator\MyCalculator\obj\Debug\netcoreapp1.1\MyCalculator.AssemblyInfo.cs
+c:\users\chidoyo\documents\visual studio 2017\Projects\MyCalculator\MyCalculator\obj\Debug\netcoreapp1.1\MyCalculator.dll
+c:\users\chidoyo\documents\visual studio 2017\Projects\MyCalculator\MyCalculator\obj\Debug\netcoreapp1.1\MyCalculator.pdb
